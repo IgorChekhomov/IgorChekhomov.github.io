@@ -229,7 +229,7 @@ font-size: 2.2em;
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto';
     font-weight: lighter;
 }
 
@@ -250,7 +250,7 @@ h1, h2, h3, h4, h5 {
     color: #505050;
     cursor: pointer;
     font-size: 1.3em;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto';
 }
 #form_input label > span {
     color: #e75858;
