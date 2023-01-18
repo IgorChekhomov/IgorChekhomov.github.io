@@ -14,7 +14,7 @@ html {
 
 body {
     background-color: #fafafa;
-    font-family: 'Trebuchet MS', Helvetica;
+    font-family: 'Roboto';
 }
 
 /*шапка сайта*/
@@ -37,7 +37,7 @@ header #logo span {
     font-size: 1.7em;
     line-height: 45px;
     margin-left: 40px;
-    font-family: 'Suez One', serif;
+    font-family:'Roboto';
 }
 
 @media (min-width: 701px) {
